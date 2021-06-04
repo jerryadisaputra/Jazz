@@ -1,5 +1,5 @@
 <a href="https://cooltext.com"><img src="https://telegra.ph/file/4e4bfd576d0d972b2800d.jpg"></a>
-  <img "https://telegra.ph/file/4e4bfd576d0d972b2800d.jpg">
+
 </p>
 <h1 align="center">
   <b>Jazz - UserBot</b>

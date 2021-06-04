@@ -22,7 +22,7 @@ from . import *
 
 # ================================================#
 notmine = f"This bot is for {OWNER_NAME}"
-ULTROID_PIC = "https://telegra.ph/file/115f149ed8e154641708b.jpg"
+ULTROID_PIC = "https://telegra.ph/file/4e4bfd576d0d972b2800d.jpg"
 helps = get_string("inline_1")
 
 add_ons = udB.get("ADDONS")
@@ -56,23 +56,23 @@ async def e(o):
         )
         res = [
             await b.article(
-                title="Ultroid Userbot",
-                url="https://t.me/TeamUltroid",
+                title="Jee Userbot",
+                url="https://t.me/ALGTRR",
                 description="Userbot | Telethon ",
                 text=ALIVEMSG,
                 thumb=InputWebDocument(ULTROID_PIC, 0, "image/jpeg", []),
                 buttons=[
-                    [Button.url(text="Support Group", url="t.me/UltroidSupport")],
+                    [Button.url(text="Group Owner", url="t.me/ALGTRR")],
                     [
                         Button.url(
                             text="Repo",
-                            url="https://github.com/Teamultroid/Ultroid",
+                            url="https://github.com/jerryadisaputra/Jee-userbot",
                         ),
                     ],
                 ],
             ),
         ]
-        await o.answer(res, switch_pm=f"👥 ULTROID PORTAL", switch_pm_param="start")
+        await o.answer(res, switch_pm=f"👥 JEE PORTAL", switch_pm_param="start")
 
 
 @in_pattern("ultd")
@@ -506,7 +506,7 @@ async def on_plug_in_callback_query_handler(event):
         reply_pop_up_alert = f"{plugin_name} has no detailed help..."
     else:
         reply_pop_up_alert = help_string
-    reply_pop_up_alert += "\n© @TeamUltroid"
+    reply_pop_up_alert += "\n© @ALGTRR"
     buttons = [
         [
             Button.inline(

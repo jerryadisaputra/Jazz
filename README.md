@@ -1,4 +1,4 @@
-<p align="center">
+<p align="https://telegra.ph/file/4e4bfd576d0d972b2800d.jpg">
   <img "https://telegra.ph/file/4e4bfd576d0d972b2800d.jpg">
 </p>
 <h1 align="center">

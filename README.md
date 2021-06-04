@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center">
-  <b>Jazz - UserBot</b>
+  <b>Jee - UserBot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   

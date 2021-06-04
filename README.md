@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img "https://telegra.ph/file/4e4bfd576d0d972b2800d.jpg">
 </p>
 <h1 align="center">
   <b>Jazz - UserBot</b>

@@ -89,7 +89,7 @@ async def _(e):
     groups_only=True,
 )
 async def _(e):
-    ok = await eor(e, "`Inviting Members to Voice Chat...`")
+    ok = await eor(e, "`Sedang Mengundang Orang Tolol...`")
     users = []
     z = 0
     async for x in e.client.iter_participants(e.chat_id):
@@ -102,7 +102,7 @@ async def _(e):
             z += 6
         except BaseException:
             pass
-    await ok.edit(f"`Invited {z} users`")
+    await ok.edit(f"`Berhasil Mengundang {z} Orang Tolol`")
 
 
 @ultroid_cmd(
